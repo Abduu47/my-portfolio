@@ -134,7 +134,7 @@ GitHub Actions handles the rest. Check the **Actions** tab in your repo to watch
 
 ## Live Site
 
-**[https://your-username.github.io/my-portfolio](https://your-username.github.io/my-portfolio)**
+**[https://Abduu47.github.io/my-portfolio](https://Abduu47.github.io/my-portfolio)**
 
 > Replace `your-username` with your actual GitHub username.
 
